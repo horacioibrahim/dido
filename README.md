@@ -1,4 +1,4 @@
-Dido - Data intetragetion done 
+Dido - Data integration done 
 ==============================
 A micro data integration package with focus in csv files. Many tools generate
 CSV files. This is practically default, but not all create reports. This 
